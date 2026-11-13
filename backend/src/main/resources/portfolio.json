@@ -169,13 +169,25 @@
     {
       "role": "Test Automation Trainee (Python)",
       "org": "SoftServe · GreenCity",
-      "period": "01.2026 – 06.2026",
+      "period": "01.2026 – 08.2026",
       "description": "Test automation for GreenCity, a production web application for waste sorting and pickup management in Ukraine.",
       "points": [
         "Developed automated tests for API-driven modules and backend integrations, finding functional issues before release.",
         "Designed scenarios for authentication, form validation and end-to-end workflows in a cross-functional Agile/Scrum team.",
         "Integrated automated regression tests into the CI/CD pipeline.",
         "Investigated failures, reported defects and maintained Allure reports."
+      ]
+    },
+    {
+      "role": "Data Software Engineering Program Intern",
+      "org": "EPAM",
+      "period": "09.2026 – 11.2026",
+      "description": "Data Software Engineering Program – SQL, Python, data analysis and big data preparation",
+      "points": [
+        "Worked with several databases, writing SQL queries for data analysis and data selection to prepare targeted datasets for further analysis.",
+        "Cleansed and prepared raw data from multiple sources for downstream analysis.",
+        "Used Python data libraries and frameworks, including Pandas and NumPy, for data analysis and processing on the backend side.",
+        "Prepared big data for future analysis and production use."
       ]
     }
   ],
